@@ -1,0 +1,673 @@
+[
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518130936951,
+            "changeTime": 1518130936951,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518130936951,
+            "changeTime": 1518130936951,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1518136407954,
+            "changeTime": 1518136407954,
+            "contentHash": "49ea04bb2e2f9d4759b1403435d7dacd2be8e8ca"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1518130936951,
+            "changeTime": 1518130936951,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets",
+        {
+            "state": "n",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1518131935117,
+            "changeTime": 1518131935117,
+            "contentHash": "b12313919584842854d6b3ec7d3b56c30f769c53",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields/Escalated_Hourly_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields/Escalated_Hourly_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 502,
+            "modifiedTime": 1518136407851,
+            "changeTime": 1518136407851,
+            "contentHash": "e6180c4795309407f650dea85d20b249aa107ef5"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields/Standard_Hourly_Rate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields/Standard_Hourly_Rate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 498,
+            "modifiedTime": 1518136407852,
+            "changeTime": 1518136407852,
+            "contentHash": "64ee0836eee961f3a41f00add52d73b39ec2a671"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/Case_Time_Entry__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/Case_Time_Entry__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2282,
+            "modifiedTime": 1518136407864,
+            "changeTime": 1518136407864,
+            "contentHash": "f278aa0fcdb6dd064d9d55ad5f60aea841898c32"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Case__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Case__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 680,
+            "modifiedTime": 1518136407864,
+            "changeTime": 1518136407864,
+            "contentHash": "d07c17e3799e0e2e68f53c9acfe658a766bee796"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1518136407864,
+            "changeTime": 1518136407864,
+            "contentHash": "117ac243c206e076d178de7592aa04d2f636d39e"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/End_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/End_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 390,
+            "modifiedTime": 1518136407865,
+            "changeTime": 1518136407865,
+            "contentHash": "0a3c83211b8d0d6b6b6f52f74661b51ecc829d36"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Incurred_By__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Incurred_By__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 536,
+            "modifiedTime": 1518136407865,
+            "changeTime": 1518136407865,
+            "contentHash": "bbeead160f0e3595a012e491bc2bf97141a2ca7f"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 579,
+            "modifiedTime": 1518136407865,
+            "changeTime": 1518136407865,
+            "contentHash": "aefdd143eb7c63d70ab357ae075c634e4f12089b"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Override_Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Override_Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 489,
+            "modifiedTime": 1518136407865,
+            "changeTime": 1518136407865,
+            "contentHash": "e1dc33afd73d697c971762f443d64761b1961f7e"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Start_Time__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Start_Time__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 391,
+            "modifiedTime": 1518136407866,
+            "changeTime": 1518136407866,
+            "contentHash": "d78daad075b60693d53d7a5cbb860c485d35a9d0"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Support_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields/Support_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 915,
+            "modifiedTime": 1518136407866,
+            "changeTime": 1518136407866,
+            "contentHash": "5adb2569110d52b7b6a443d6edfd388eab6a4080"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Esc_Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Esc_Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 889,
+            "modifiedTime": 1518136407874,
+            "changeTime": 1518136407874,
+            "contentHash": "8c54fa29bf308bf0277e3fff66709d1f740b281b"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Std_Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Std_Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 889,
+            "modifiedTime": 1518136407874,
+            "changeTime": 1518136407874,
+            "contentHash": "7d6cd0034f1816cb123a186255105408a32aa9f9"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Total__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Billable_Total__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 699,
+            "modifiedTime": 1518136407875,
+            "changeTime": 1518136407875,
+            "contentHash": "bdca5115508996af0d8ea346763efd5535a3d8f5"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Raw_Esc_Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Raw_Esc_Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 800,
+            "modifiedTime": 1518136407875,
+            "changeTime": 1518136407875,
+            "contentHash": "a2998d782374708e0cded4415d295be73967c32e"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Raw_Std_Minutes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields/Raw_Std_Minutes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 789,
+            "modifiedTime": 1518136407875,
+            "changeTime": 1518136407875,
+            "contentHash": "39249c0dc0b0d17aecdaead0a5892f18e7e4ec89"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12599,
+            "modifiedTime": 1518136407883,
+            "changeTime": 1518136407883,
+            "contentHash": "27f2459fb246928a6d2cc4a7d8354d6767e0564b"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/User-User Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/User-User Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1383,
+            "modifiedTime": 1518136407884,
+            "changeTime": 1518136407884,
+            "contentHash": "74e652b42d3c7e18e7b622f1de737bac28138346"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9871,
+            "modifiedTime": 1518136407895,
+            "changeTime": 1518136407895,
+            "contentHash": "11dfe7199a4b21c8b62f9b996668852647363c96"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9919,
+            "modifiedTime": 1518136407899,
+            "changeTime": 1518136407899,
+            "contentHash": "b76be2d540e099d45af85e2af6961c31b8361e64"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case_Time_Entry__c-Case Time Entry Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case_Time_Entry__c-Case Time Entry Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2916,
+            "modifiedTime": 1518136407903,
+            "changeTime": 1518136407903,
+            "contentHash": "1fde7ef25abfcf8dd958c19bb924e5d75a5f6d25"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9871,
+            "modifiedTime": 1518136407916,
+            "changeTime": 1518136407916,
+            "contentHash": "b548bdb19f680e0849737d63364d8c18ea10605c"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9919,
+            "modifiedTime": 1518136407923,
+            "changeTime": 1518136407923,
+            "contentHash": "55abd271da3eacb6ac4085e381c2fab212b75649"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/CaseClose-Close Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1905,
+            "modifiedTime": 1518136407925,
+            "changeTime": 1518136407925,
+            "contentHash": "259d16b7451f672260dc1a72f22fa0be55873a45"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12794,
+            "modifiedTime": 1518136407933,
+            "changeTime": 1518136407933,
+            "contentHash": "9c14cfa56a53d8c47b642d481591b34af3f249da"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12798,
+            "modifiedTime": 1518136407937,
+            "changeTime": 1518136407937,
+            "contentHash": "1f1fc1059afcfc5e0fb62906059b980f57ffb0fe"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts/Case-Case %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 12599,
+            "modifiedTime": 1518136407942,
+            "changeTime": 1518136407942,
+            "contentHash": "f3b65c5b61c16cc00459841db3307c32a5f6aa0d"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flows/Track_Case_Time-1.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flows/Track_Case_Time-1.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 29536,
+            "modifiedTime": 1518136407950,
+            "changeTime": 1518136407950,
+            "contentHash": "3b5d3f0423df6d9cc26f9edb7c3559d82927266b"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flowDefinitions/Track_Case_Time.flowDefinition-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flowDefinitions/Track_Case_Time.flowDefinition-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 171,
+            "modifiedTime": 1518136407951,
+            "changeTime": 1518136407951,
+            "contentHash": "84016bd12773aae2340e6057aede8139cb16f930"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/workflows/Case.workflow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/workflows/Case.workflow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 99,
+            "modifiedTime": 1518136407953,
+            "changeTime": 1518136407953,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7335,
+            "modifiedTime": 1518136407956,
+            "changeTime": 1518136407956,
+            "contentHash": "e877c1975b58be2f4b43480414a1f147de041cb1"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7344,
+            "modifiedTime": 1518136407960,
+            "changeTime": 1518136407960,
+            "contentHash": "8a21781884286db4b1aa28bc2f36c74e591a9b04"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20708,
+            "modifiedTime": 1518136407968,
+            "changeTime": 1518136407968,
+            "contentHash": "ee1c87e77a851993d6fac7cde1ea7a6e844cfd33"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7677,
+            "modifiedTime": 1518136407973,
+            "changeTime": 1518136407973,
+            "contentHash": "6d8b2c67f7e19454a447edc73af5e806be427b16"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1518136407851,
+            "changeTime": 1518136407851,
+            "contentHash": "9e3bb88bfa087319b08db19497255c704da29775"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518136407850,
+            "changeTime": 1518136407850,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1518136407874,
+            "changeTime": 1518136407874,
+            "contentHash": "4e74a5dfcf1e46ab059410b5d6fb3aef6c81965e"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1518136407864,
+            "changeTime": 1518136407864,
+            "contentHash": "c015c1cb0df8947a2cedc4f54788fa9c976d1793"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case_Time_Entry__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1518136407866,
+            "changeTime": 1518136407866,
+            "contentHash": "006d3144098ee3baf07dc89513647332bde75eac"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1518136407875,
+            "changeTime": 1518136407875,
+            "contentHash": "505b99bb60684475700d872d6e7228a22be38ea1"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518136407874,
+            "changeTime": 1518136407874,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1518136407942,
+            "changeTime": 1518136407942,
+            "contentHash": "7f6ca64cd01c2989a6419fde1c50d8be8f52123a"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518136407949,
+            "changeTime": 1518136407949,
+            "contentHash": "4eabdd65023946ccc9d617239dcddf4367552bf4"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flowDefinitions",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/flowDefinitions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518136407951,
+            "changeTime": 1518136407951,
+            "contentHash": "80a8f512a880af0ef6b2e92bae1a786285e2dfa4"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/workflows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/workflows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518136407953,
+            "changeTime": 1518136407953,
+            "contentHash": "53e83e46e952327f91cfed54b5febc0046c16401"
+        }
+    ],
+    [
+        "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/tmarceau/Documents/SFDC Dev/CaseTimesheets/casetimesheets/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1518136407973,
+            "changeTime": 1518136407973,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
